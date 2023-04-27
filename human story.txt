@@ -1,2 +1,4 @@
 This is a story of human life.
 added new line from main branch before branch protector
+&&&
+added 2nd line from main branch after branch protector.
